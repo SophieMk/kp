@@ -1,0 +1,7 @@
+Job 1: echo one >1: exit 0
+Job 2: echo two >2: exit 0
+Job 3: echo three >3: exit 0
+Job 4: cat 1 2 >4: exit 0
+Job 5: false: exit 1
+A job failed.
+[exit 3]

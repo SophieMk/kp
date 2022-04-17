@@ -1,0 +1,2 @@
+Job 1: echo one >1: exit 0
+Job 2: cat 1 >2: exit 0

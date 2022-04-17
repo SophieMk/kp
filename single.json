@@ -1,0 +1,6 @@
+{
+  "1": {
+    "command": "echo one >1",
+    "deps": []
+  }
+}

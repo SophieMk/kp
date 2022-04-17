@@ -1,0 +1,14 @@
+{
+  "1": {
+    "command": "echo one >1",
+    "deps": []
+  },
+  "2": {
+    "command": "cat 1 >2",
+    "deps": ["1"]
+  },
+  "3": {
+    "command": "echo three >3",
+    "deps": []
+  }
+}
